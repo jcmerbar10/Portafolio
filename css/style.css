@@ -1,0 +1,78 @@
+body{
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}
+header{
+	background-color: #0800C8;
+	color: #ffffff;
+}
+#sobre-mi{
+	border-bottom: 3px solid #211AB8;
+	padding: 15px 0;
+}
+#sobre-mi h1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: #1A00FF;
+}
+#sobre-mi h4{
+	font-size: 30px;
+	font-weight: 400;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#sobre-mi p{
+	text-align: justify;
+	font-weight: 200;
+}
+#servicios{
+	border-bottom: 3px solid #211AB8;
+	padding: 15px 0;
+}
+#servicios h1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: #1A00FF;
+}
+#servicios p{
+	text-align: center;
+	color:#2100C3;
+	font-weight: 500;
+}
+#proyectos{
+	border-bottom: 3px solid #211AB8;
+	padding: 15px 0;
+}
+#proyectos h1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: #1A00FF;
+}
+#proyectos h5{
+	text-align: center;
+	color:#2100C3;
+	font-weight: 500;
+}
+#contacto{
+	background-color: #FF0004;
+	color: #ffffff;
+	border-bottom: 3px solid #211AB8;
+	padding: 15px 0;
+}
+#contacto h1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: #1A00FF;
+}
+#contacto i{
+	font-size: 25px;
+	margin-top: 25px;
+}
+#contacto p{
+	margin-bottom: 20px;
+}
+footer{
+	border-bottom: 3px solid #211AB8;
+	padding: 15px 0;
+	background-color: #001682;
+	color: #ffffff;
+}
